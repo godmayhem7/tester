@@ -28,8 +28,8 @@ span{
 }
 
 .search-bar{
-    width:300px;
-    height: 20px;
+    width:400px;
+    height: 40px;
     border-bottom-right-radius:3px ;
     border-top-right-radius:3px ;
 }
@@ -40,7 +40,8 @@ span{
 }
 
 .button{
-    height: 26px;
+    height: 44px;
+    width:100px;
     cursor:pointer;
     background-color: rgb(159, 162, 165);
     border: none;
