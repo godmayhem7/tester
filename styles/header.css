@@ -1,3 +1,8 @@
+p{
+    font-family: Roboto, Arial;
+    font-size:30px;
+}
+
 .music-classification{
     letter-spacing: 3px;
     background-color: rgb(159, 162, 165);
